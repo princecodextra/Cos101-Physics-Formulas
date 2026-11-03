@@ -1,7 +1,8 @@
 COS 101 ASSIGNMENT
 Five Basic Physics Formulas
 Name: Acha Princewill Isioma
-martric number: BHU/26/04/05/0100
+Martric number: BHU/26/04/05/010
+
 Formula 1: Speed
 Speed = Distance / Time
 
