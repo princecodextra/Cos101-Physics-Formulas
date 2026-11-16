@@ -73,7 +73,7 @@ print("5. Kinetic Energy:",
     elif choice == "4":
         density()
     elif choice == "5":
-        Kinetic Energy()
+        kinetic_energy()
     else:
         print("Invalid choice!")
 
