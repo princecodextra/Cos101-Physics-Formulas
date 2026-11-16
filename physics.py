@@ -60,3 +60,25 @@ print("4. Density:", calculate_density(20, 5), "kg/m³")
 
 print("5. Kinetic Energy:",
       calculate_kinetic_energy(10, 4), "J")
+
+
+    choice = input("Select a formula (1-5): ")
+
+    if choice == "1":
+        speed()
+    elif choice == "2":
+        force()
+    elif choice == "3":
+       weight()
+    elif choice == "4":
+        density()
+    elif choice == "5":
+        Kinetic Energy()
+    else:
+        print("Invalid choice!")
+
+    again = input("\nDo you want to run another program? (yes/no): ").lower()
+
+    if again != "yes":
+        print("Thank you for using the Physics Formula Calculator!")
+        break
